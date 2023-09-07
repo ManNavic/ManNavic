@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **navickis@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/r/308a5af5/?utm_medium=growth&utm_campaign=ask-feedback&utm_source=dynamic](https://app.enhancv.com/r/308a5af5/?utm_medium=growth&utm_campaign=ask-feedback&utm_source=dynamic)
+- 📄 Know about my experiences <a href="https://app.enhancv.com/r/308a5af5/?utm_medium=growth&utm_campaign=ask-feedback&utm_source=dynamic](https://app.enhancv.com/r/308a5af5/?utm_medium=growth&utm_campaign=ask-feedback&utm_source=dynamic">My CV<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
