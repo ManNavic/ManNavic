@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB and looking into Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://main.d1vddt7vom4sd9.amplifyapp.com/](https://main.d1vddt7vom4sd9.amplifyapp.com/)
+- 👨‍💻 All of my projects will be available soon in <a href='https://main.d1vddt7vom4sd9.amplifyapp.com/'>My Portfolio<a/>
 
 - 📫 How to reach me **navickis@gmail.com**
 
